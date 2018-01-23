@@ -1,0 +1,9 @@
+.TodoList {
+  background: #CCC;
+  list-style-type: none;
+  padding: 5px;
+  margin: 0;
+  border-radius: 5px;
+  min-width: 200px;
+  min-height: 30px;
+}
